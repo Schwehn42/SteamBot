@@ -14,6 +14,7 @@ namespace SteamBot
         public override bool OnGroupAdd()
         {
             //test change to merge
+            //s
             return false;
         }
 
